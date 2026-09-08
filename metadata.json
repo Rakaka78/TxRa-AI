@@ -1,0 +1,6 @@
+{
+  "name": "ZOQIRA - AI Trading Terminal",
+  "description": "Institutional-grade AI trading intelligence terminal and real-time interactive signals for Gold, Forex, Crypto, and Indices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
